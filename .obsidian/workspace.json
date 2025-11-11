@@ -39,14 +39,12 @@
             "id": "bab0138f71235958",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Networking and Security/Networking Fundemantals.md",
-                "mode": "source",
-                "source": false
+                "file": "Obsidain-EMT-Things/3in1 + Alpha.md"
               },
-              "icon": "lucide-file",
-              "title": "Networking Fundemantals"
+              "icon": "excalidraw-icon",
+              "title": "3in1 + Alpha"
             }
           }
         ],
@@ -201,11 +199,11 @@
   },
   "active": "bab0138f71235958",
   "lastOpenFiles": [
+    "Networking and Security/Networking Fundemantals.md",
     "Networking and Security/Fil Project.md",
     "Networking and Security/Network Security.md",
     "Networking and Security/Network Protocols.md",
     "Networking and Security/IP addressing Routing and Switching.md",
-    "Networking and Security/Networking Fundemantals.md",
     "Obsidain-EMT-Things/Untitled 1.md",
     "Untitled 2.md",
     "Obsidain-EMT-Things/Untitled.md",

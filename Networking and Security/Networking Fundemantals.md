@@ -1,18 +1,14 @@
 # Module Introduction and Learning Objectives 
 # Computer Networks: Networking Hardware Devices  
-## Server
+## Networking Hardware Devices 
+### Server
 - Can be accessed by other devices connected to the same network
 - **Client** - device that can access the server
 - Users can access any file on the server as long as the Client is connected to the network, with proper access
-##  Node
+###  Node
 **Node** is a network connected device that can send, create & receive messages
 - Nodes that access servers to get on the network are known as clients
-## 
-
-
-
-
-
+### 
 # Models, Standards, Protocols, and Ports 
 # Computer Networks: Wireless Networks and Standards  
 # Activity: Identifying Wireless Network Technologies 
