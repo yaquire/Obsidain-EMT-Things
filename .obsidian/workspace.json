@@ -1,39 +1,70 @@
 {
   "main": {
-    "id": "4bf0a784b50183e5",
+    "id": "494e69630701ccd5",
     "type": "split",
     "children": [
       {
-        "id": "bc8785ccd18d458d",
+        "id": "8080578dca101d9c",
         "type": "tabs",
         "children": [
           {
-            "id": "50c4e6873c072a30",
+            "id": "4d2079388041be26",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "3in1 + Alpha.md"
+                "file": "Obsidain-EMT-Things/Untitled 1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "3in1 + Alpha"
+              "icon": "lucide-file",
+              "title": "Untitled 1"
+            }
+          },
+          {
+            "id": "f8fc2e1160ce6742",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Networking and Security/Networking Fundemantals.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Networking Fundemantals"
+            }
+          },
+          {
+            "id": "bab0138f71235958",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Networking and Security/Networking Fundemantals.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Networking Fundemantals"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "f57d005ebbedc153",
+    "id": "2bc2da113fccb7f0",
     "type": "split",
     "children": [
       {
-        "id": "85e34430e0bd46ef",
+        "id": "29e30aa6415efd50",
         "type": "tabs",
         "children": [
           {
-            "id": "2b096052a8827906",
+            "id": "4cf499a8b6b9f8b2",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -46,7 +77,7 @@
             }
           },
           {
-            "id": "7d1e55b3059425bc",
+            "id": "44eeb6bb337a836b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -63,7 +94,7 @@
             }
           },
           {
-            "id": "71d3cf098079a5fa",
+            "id": "744a7f64f46c1c09",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -76,24 +107,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "right": {
-    "id": "3083090521169f43",
+    "id": "685222dc88ce4709",
     "type": "split",
     "children": [
       {
-        "id": "b83fc2727a32fa2c",
+        "id": "68ebfa028ac12e17",
         "type": "tabs",
         "children": [
           {
-            "id": "9be438cf0e1d3ce9",
+            "id": "6d8dc7b118ee076c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3in1 + Alpha.md",
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,25 +133,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 3in1 + Alpha"
+              "title": "Backlinks for Welcome"
             }
           },
           {
-            "id": "3087349ae3ee3381",
+            "id": "95ac81a853fe15b1",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3in1 + Alpha.md",
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 3in1 + Alpha"
+              "title": "Outgoing links from Welcome"
             }
           },
           {
-            "id": "d3fc9226c291d12a",
+            "id": "044bc9edcc439ac9",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -136,18 +166,18 @@
             }
           },
           {
-            "id": "d6462b1878efc961",
+            "id": "ff6ec7b1e909aff3",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "3in1 + Alpha.md",
+                "file": "Welcome.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 3in1 + Alpha"
+              "title": "Outline of Welcome"
             }
           }
         ]
@@ -166,12 +196,52 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "templater-obsidian:Templater": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "50c4e6873c072a30",
+  "active": "bab0138f71235958",
   "lastOpenFiles": [
-    "3in1 + Alpha.md"
+    "Networking and Security/Fil Project.md",
+    "Networking and Security/Network Security.md",
+    "Networking and Security/Network Protocols.md",
+    "Networking and Security/IP addressing Routing and Switching.md",
+    "Networking and Security/Networking Fundemantals.md",
+    "Obsidain-EMT-Things/Untitled 1.md",
+    "Untitled 2.md",
+    "Obsidain-EMT-Things/Untitled.md",
+    "Obsidain-EMT-Things/3in1 + Alpha.md",
+    "Networking and Security",
+    "Obsidain-EMT-Things/Template/Untitled.md",
+    "GEN 6 Ambulance Item Placement copy_0.pdf",
+    "GEN 6 Ambulance Item Placement copy.pdf",
+    "3in1 + Alpha.md",
+    "Obsidain-EMT-Things/Excalidraw/Radiation.md",
+    "Obsidain-EMT-Things/Screenshot 2025-09-17 at 19.41.46.png",
+    "Obsidain-EMT-Things/Template",
+    "Obsidain-EMT-Things/Screenshot 2025-09-17 at 19.31.41.png",
+    "Obsidain-EMT-Things/Mini Essays",
+    "Obsidain-EMT-Things/Explaining the Revit APP.md",
+    "Obsidain-EMT-Things/Excalidraw/Drawing 2025-09-16 18.45.13.excalidraw.md",
+    "Obsidain-EMT-Things/Excalidraw",
+    "Obsidain-EMT-Things/donavan statement.md",
+    "Obsidain-EMT-Things/29ABC1B3-45BD-4E08-A240-2E9B860CC532.jpeg",
+    "Obsidain-EMT-Things/README.md",
+    "Obsidain-EMT-Things",
+    "Excalidraw/Radiation.md",
+    "donavan statement.md",
+    "Excalidraw/Drawing 2025-09-16 18.45.13.excalidraw.md",
+    "Excalidraw/3in1 + Alpha.md",
+    "Screenshot 2025-09-17 at 19.41.46.png",
+    "Template/Untitled.md",
+    "Template",
+    "Untitled.base",
+    "Mini Essays",
+    "2025-09-16.md",
+    "2025-09-22.md",
+    "Explaining the Revit APP.md",
+    "Screenshot 2025-09-17 at 19.31.41.png",
+    "29ABC1B3-45BD-4E08-A240-2E9B860CC532.jpeg",
+    "Untitled.canvas",
+    "Welcome.md"
   ]
 }

@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "4bf0a784b50183e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc8785ccd18d458d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "50c4e6873c072a30",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "3in1 + Alpha.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "3in1 + Alpha"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f57d005ebbedc153",
+    "type": "split",
+    "children": [
+      {
+        "id": "85e34430e0bd46ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b096052a8827906",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7d1e55b3059425bc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "71d3cf098079a5fa",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "3083090521169f43",
+    "type": "split",
+    "children": [
+      {
+        "id": "b83fc2727a32fa2c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9be438cf0e1d3ce9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "3in1 + Alpha.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 3in1 + Alpha"
+            }
+          },
+          {
+            "id": "3087349ae3ee3381",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "3in1 + Alpha.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 3in1 + Alpha"
+            }
+          },
+          {
+            "id": "d3fc9226c291d12a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d6462b1878efc961",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "3in1 + Alpha.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 3in1 + Alpha"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "50c4e6873c072a30",
+  "lastOpenFiles": [
+    "3in1 + Alpha.md"
+  ]
+}
