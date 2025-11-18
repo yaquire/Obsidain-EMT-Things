@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8080578dca101d9c",
+        "id": "76d65a8a909b613b",
         "type": "tabs",
         "children": [
           {
-            "id": "4d2079388041be26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidain-EMT-Things/Untitled 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 1"
-            }
-          },
-          {
-            "id": "f8fc2e1160ce6742",
+            "id": "71a574ee75e0a8a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,45 +22,19 @@
             }
           },
           {
-            "id": "bab0138f71235958",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dead Cells (Clone).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dead Cells (Clone)"
-            }
-          },
-          {
-            "id": "182f1dbe21f2eee4",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.3"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
-            }
-          },
-          {
-            "id": "91d465a5a701619e",
+            "id": "46adccb01b02d2e5",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Obsidain-EMT-Things/3in1 + Alpha.md"
+                "file": "TimeLine for Uni Entrance.md"
               },
               "icon": "excalidraw-icon",
-              "title": "3in1 + Alpha"
+              "title": "TimeLine for Uni Entrance"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -223,19 +183,23 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "91d465a5a701619e",
+  "active": "46adccb01b02d2e5",
   "lastOpenFiles": [
+    "Networking and Security/1) Networking Fundemantals.md",
+    "TimeLine for Uni Entrance.md",
+    "Excalidraw",
+    "Untitled.md",
+    "Obsidain-EMT-Things/Untitled 1.md",
+    "Dead Cells (Clone).md",
+    "H2 Mathematics Textbook (Choo Yan Min).pdf",
+    "Obsidain-EMT-Things/3in1 + Alpha.md",
     "Web Programming with Python and JS/Course Overview.md",
     "Web Programming with Python and JS/index.html",
     "Web Programming with Python and JS",
-    "Networking and Security/1) Networking Fundemantals.md",
-    "Dead Cells (Clone).md",
-    "Obsidain-EMT-Things/3in1 + Alpha.md",
     "Networking and Security/Fil Project.md",
     "Networking and Security/Network Security.md",
     "Networking and Security/Network Protocols.md",
     "Networking and Security/IP addressing Routing and Switching.md",
-    "Obsidain-EMT-Things/Untitled 1.md",
     "Untitled 2.md",
     "Obsidain-EMT-Things/Untitled.md",
     "Networking and Security",
@@ -254,16 +218,13 @@
     "Obsidain-EMT-Things/donavan statement.md",
     "Obsidain-EMT-Things/29ABC1B3-45BD-4E08-A240-2E9B860CC532.jpeg",
     "Obsidain-EMT-Things/README.md",
-    "Obsidain-EMT-Things",
     "Excalidraw/Radiation.md",
     "donavan statement.md",
     "Excalidraw/Drawing 2025-09-16 18.45.13.excalidraw.md",
     "Excalidraw/3in1 + Alpha.md",
     "Screenshot 2025-09-17 at 19.41.46.png",
     "Template/Untitled.md",
-    "Template",
     "2025-09-16.md",
-    "2025-09-22.md",
     "Screenshot 2025-09-17 at 19.31.41.png",
     "29ABC1B3-45BD-4E08-A240-2E9B860CC532.jpeg",
     "Untitled.canvas"
