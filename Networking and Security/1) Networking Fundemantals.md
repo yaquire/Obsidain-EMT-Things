@@ -8,7 +8,9 @@
 ###  Node
 **Node** is a network connected device that can send, create & receive messages
 - Nodes that access servers to get on the network are known as clients
-### 
+## Models, Standards, Protocols & Ports
+
+## Wireless Networks & Standards
 # Models, Standards, Protocols, and Ports 
 # Computer Networks: Wireless Networks and Standards  
 # Activity: Identifying Wireless Network Technologies 

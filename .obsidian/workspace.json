@@ -27,16 +27,42 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking and Security/Networking Fundemantals.md",
+                "file": "Networking and Security/1) Networking Fundemantals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Networking Fundemantals"
+              "title": "1) Networking Fundemantals"
             }
           },
           {
             "id": "bab0138f71235958",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dead Cells (Clone).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dead Cells (Clone)"
+            }
+          },
+          {
+            "id": "182f1dbe21f2eee4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
+            }
+          },
+          {
+            "id": "91d465a5a701619e",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -48,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -197,9 +223,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "bab0138f71235958",
+  "active": "91d465a5a701619e",
   "lastOpenFiles": [
-    "Networking and Security/Networking Fundemantals.md",
+    "Web Programming with Python and JS/Course Overview.md",
+    "Web Programming with Python and JS/index.html",
+    "Web Programming with Python and JS",
+    "Networking and Security/1) Networking Fundemantals.md",
+    "Dead Cells (Clone).md",
+    "Obsidain-EMT-Things/3in1 + Alpha.md",
     "Networking and Security/Fil Project.md",
     "Networking and Security/Network Security.md",
     "Networking and Security/Network Protocols.md",
@@ -207,7 +238,6 @@
     "Obsidain-EMT-Things/Untitled 1.md",
     "Untitled 2.md",
     "Obsidain-EMT-Things/Untitled.md",
-    "Obsidain-EMT-Things/3in1 + Alpha.md",
     "Networking and Security",
     "Obsidain-EMT-Things/Template/Untitled.md",
     "GEN 6 Ambulance Item Placement copy_0.pdf",
@@ -232,14 +262,10 @@
     "Screenshot 2025-09-17 at 19.41.46.png",
     "Template/Untitled.md",
     "Template",
-    "Untitled.base",
-    "Mini Essays",
     "2025-09-16.md",
     "2025-09-22.md",
-    "Explaining the Revit APP.md",
     "Screenshot 2025-09-17 at 19.31.41.png",
     "29ABC1B3-45BD-4E08-A240-2E9B860CC532.jpeg",
-    "Untitled.canvas",
-    "Welcome.md"
+    "Untitled.canvas"
   ]
 }
