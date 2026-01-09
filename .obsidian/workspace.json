@@ -4,37 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "76d65a8a909b613b",
+        "id": "5466621c4d95b046",
         "type": "tabs",
         "children": [
           {
-            "id": "71a574ee75e0a8a5",
+            "id": "2e9894c8d15057c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking and Security/1) Networking Fundemantals.md",
+                "file": "Uni Apps.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1) Networking Fundemantals"
-            }
-          },
-          {
-            "id": "46adccb01b02d2e5",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "TimeLine for Uni Entrance.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "TimeLine for Uni Entrance"
+              "title": "Uni Apps"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,16 +170,19 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "46adccb01b02d2e5",
+  "active": "2e9894c8d15057c2",
   "lastOpenFiles": [
-    "Networking and Security/1) Networking Fundemantals.md",
+    "2025-12-31.md",
+    "Uni Apps.md",
     "TimeLine for Uni Entrance.md",
-    "Excalidraw",
-    "Untitled.md",
-    "Obsidain-EMT-Things/Untitled 1.md",
-    "Dead Cells (Clone).md",
     "H2 Mathematics Textbook (Choo Yan Min).pdf",
+    "GEN 6 Ambulance Item Placement copy_0.pdf",
+    "GEN 6 Ambulance Item Placement copy.pdf",
+    "Dead Cells (Clone).md",
+    "Algorithms.md",
     "Obsidain-EMT-Things/3in1 + Alpha.md",
+    "Networking and Security/1) Networking Fundemantals.md",
+    "Obsidain-EMT-Things/Untitled 1.md",
     "Web Programming with Python and JS/Course Overview.md",
     "Web Programming with Python and JS/index.html",
     "Web Programming with Python and JS",
@@ -204,8 +194,6 @@
     "Obsidain-EMT-Things/Untitled.md",
     "Networking and Security",
     "Obsidain-EMT-Things/Template/Untitled.md",
-    "GEN 6 Ambulance Item Placement copy_0.pdf",
-    "GEN 6 Ambulance Item Placement copy.pdf",
     "3in1 + Alpha.md",
     "Obsidain-EMT-Things/Excalidraw/Radiation.md",
     "Obsidain-EMT-Things/Screenshot 2025-09-17 at 19.41.46.png",
@@ -218,13 +206,12 @@
     "Obsidain-EMT-Things/donavan statement.md",
     "Obsidain-EMT-Things/29ABC1B3-45BD-4E08-A240-2E9B860CC532.jpeg",
     "Obsidain-EMT-Things/README.md",
+    "Obsidain-EMT-Things",
     "Excalidraw/Radiation.md",
     "donavan statement.md",
     "Excalidraw/Drawing 2025-09-16 18.45.13.excalidraw.md",
     "Excalidraw/3in1 + Alpha.md",
     "Screenshot 2025-09-17 at 19.41.46.png",
-    "Template/Untitled.md",
-    "2025-09-16.md",
     "Screenshot 2025-09-17 at 19.31.41.png",
     "29ABC1B3-45BD-4E08-A240-2E9B860CC532.jpeg",
     "Untitled.canvas"
