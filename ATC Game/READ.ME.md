@@ -1,0 +1,1 @@
+This will be a game with ASCII graphics and the flight plans will be render on old school ATC templates.
